@@ -1,6 +1,6 @@
 # Sobre
 
-# 👨‍💻 Diego L. Andreani
+# Diego L. Andreani
 
 🚀 Analista de Infraestrutura | Cloud & DevOps | AWS | Linux | Segurança
 
@@ -50,10 +50,10 @@ Atualmente, estou focado na evolução para **Arquiteto de Soluções Cloud AWS*
 
 ## 🎓 Formação
 
-🎓 Redes de Computadores, Gestão de Redes e Segurança de Sistemas  
+🎓 Gestão de Redes e Segurança de Sistemas  
 Centro Universitário UniCarioca  
 
-📚 Pós-graduação (em andamento)  
+📚 Pós-graduação 
 Arquitetura de Soluções Cloud AWS
 
 ---
@@ -62,9 +62,7 @@ Arquitetura de Soluções Cloud AWS
 
 - AWS Cloud Practitioner
 - Cisco Cybersecurity Essentials
-- Linux System Administrator
-- Linux Network Engineer
-- Cloud Fundamentals (AWS, Azure, GCP)
+- Oracle Cloud Infrastructure 2025 
 - LGPD – Fundação Bradesco
 
 ---
@@ -72,8 +70,9 @@ Arquitetura de Soluções Cloud AWS
 ## 🚧 Projetos & Estudos
 
 📌 Atualmente estudando e desenvolvendo projetos com foco em:
-- Arquiteturas seguras na AWS
-- Infraestrutura como Código (Terraform)
+- Arquiteturas seguras na AWS e Devops
+- Kubernete (Estudando)
+- Infraestrutura como Código (Estudando)
 - Automação de ambientes
 - Observabilidade e monitoramento
 
