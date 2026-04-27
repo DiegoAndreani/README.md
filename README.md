@@ -63,7 +63,6 @@ Arquitetura de Soluções Cloud AWS
 - AWS Cloud Practitioner
 - Cisco Cybersecurity Essentials
 - Oracle Cloud Infrastructure 2025 
-- LGPD – Fundação Bradesco
 
 ---
 
