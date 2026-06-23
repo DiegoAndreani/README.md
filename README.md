@@ -2,13 +2,15 @@
 
 # Diego L. Andreani
 
-🚀 Analista de Infraestrutura | Cloud & DevOps | AWS | Linux | Segurança
+🚀 AWS Certified Cloud Practitioner | Analista de Infraestrutura Pleno | Zabbix + Grafana | Linux & Windows Server
 
 ---
 
 ## 📌 Sobre mim
 
-Sou Analista de Infraestrutura de TI com mais de 10 anos de experiência atuando em ambientes críticos, on-premise e cloud.
+Profissional de TI com mais de 10 anos de experiência em infraestrutura crítica e ambientes híbridos/multi-cloud.
+ 
+Atuo na sustentação de servidores Linux e Windows Server, com monitoramento proativo utilizando Zabbix + Grafana e operação diária em AWS, Azure e GCP, garantindo alta disponibilidade (24x7), segurança e eficiência operacional para clientes enterprise.
 
 Tenho forte atuação em:
 - Administração de servidores Linux e Windows
@@ -72,7 +74,6 @@ Arquitetura de Soluções Cloud AWS
 - Arquiteturas seguras na AWS e Devops
 - Kubernete (Estudando)
 - Infraestrutura como Código (Estudando)
-- Automação de ambientes
 - Observabilidade e monitoramento
 
 ---
